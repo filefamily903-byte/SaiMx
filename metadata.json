@@ -1,0 +1,6 @@
+{
+  "name": "SaiMx - Premium Online Shopping Platform",
+  "description": "SaiMx is a premier e-commerce shopping platform featuring fashion, daily essentials, electronics, kids, instant bKash/Nagad checkout, and seamless order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
